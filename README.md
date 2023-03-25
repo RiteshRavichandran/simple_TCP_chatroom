@@ -26,4 +26,4 @@ Simple TCP Chatroom is a basic implementation of a chatroom using the TCP protoc
 Contributions to Simple TCP Chatroom are always welcome. If you would like to contribute, please create a pull request with your changes.
 
 ## License
-Simple TCP Chatroom is licensed under the MIT License.
+Simple TCP Chatroom is licensed under the [MIT License](https://github.com/RiteshRavichandran/simple_tcp_chatroom/blob/main/LICENSE "MIT License").
