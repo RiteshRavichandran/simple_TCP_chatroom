@@ -8,8 +8,8 @@ Simple TCP Chatroom is a basic implementation of a chatroom using the TCP protoc
 
 ## Usage
 1. Open the terminal/command prompt and navigate to the directory where the repository is cloned/downloaded.
-2. Start the server by running the following command: <br> ``` python server.py ```
-3. Start multiple clients by running the following command in separate terminal/command prompt windows: <br> ``` python client.py ```
+2. Start the server by running the following command:  ``` python server.py ```
+3. Start multiple clients by running the following command in separate terminal/command prompt windows:  ``` python client.py ```
 4. Follow the prompts to enter a username and connect to the server.
 5. Start chatting with other users in the chatroom.
 ![tcp](https://user-images.githubusercontent.com/72683075/227697746-56717705-8d85-48a0-8581-f6caf07cffb4.jpg)
