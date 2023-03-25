@@ -4,7 +4,7 @@ Simple TCP Chatroom is a basic implementation of a chatroom using the TCP protoc
 ## Installation
 1. Clone the repository or download the ZIP file.
 2. Open the terminal/command prompt and navigate to the directory where the repository is cloned/downloaded.
-3. Run the following command to install the required dependencies: <br> ``` pip install -r requirements.txt ```
+3. Install required dependencies.
 
 ## Usage
 1. Open the terminal/command prompt and navigate to the directory where the repository is cloned/downloaded.
